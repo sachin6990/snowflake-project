@@ -1,0 +1,6 @@
+{
+    "VAULT_URL" : "http://127.0.0.1:8200",
+    "ROLE_ID" : "0a7b569a-7a75-31f1-4aff-aabed2f66b34",
+    "SECRET_ID" : "9c50eeb0-868a-d943-5c07-3a8086485d93",
+    "SECRET_PATH" : "secret/data/aws"
+    }
